@@ -10,8 +10,11 @@ Fuck this
 Esses jão os projetos que encontrei relacionados a geração automatica de DARF no github
 
 https://github.com/renanleonellocastro/darf_generator
+
 https://github.com/staticdev/irpf-cei
+
 https://github.com/amgsnt/portal-cei
+
 https://github.com/guilhermecgs/ir
 
 A ideia é compilar tudo em um unico sistema e disponibilizar para as pessoas de graça, ai aproveitamos para falir esse pessoal que cobra por serviço de calculadora de IR tipo mycapital, bussola do investidor e sencon, entre outros serviços capitalistas malditos que lucram em cima das pessoas usando a incompetencia do governo como estrategia.
