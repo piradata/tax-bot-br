@@ -1,4 +1,4 @@
-# Imposto_he_roubo
+# Tax Bot BR
 Automatic Brazilian darf calculator and generator (CEI integrated)
 
 A receita federal é um lixo e merecia queimar no inferno :)
